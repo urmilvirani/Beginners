@@ -291,6 +291,7 @@ const Lending = () => {
                             <Card.Title>{item.header}</Card.Title>
                             <Card.Text>{item.body}</Card.Text>
                             <Button variant='success'>CLick me</Button>
+                            <Button>click</Button>
                         </Card.Body>
                     </Card>
                 )
